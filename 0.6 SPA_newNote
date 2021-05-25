@@ -1,0 +1,10 @@
+title 0.6: SPA-new note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+
+note over browser:
+through original JS code,
+browser updates the list of notes
+with the new item
+end note
